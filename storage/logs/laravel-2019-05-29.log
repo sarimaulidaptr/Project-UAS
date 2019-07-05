@@ -1,0 +1,4 @@
+[2019-05-29 02:23:28] local.ERROR: Trait 'App\Http\Controllers\PDF' not found {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Trait 'App\\Http\\Controllers\\PDF' not found at C:\\xampp\\htdocs\\latihan_laravel\\app\\Http\\Controllers\\InvoiceController.php:101)
+[stacktrace]
+#0 {main}
+"} 
